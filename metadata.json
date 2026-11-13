@@ -1,0 +1,7 @@
+{
+  "uuid": "app-only-switcher@hemanth",
+  "name": "App-Only Alt+Tab",
+  "description": "Alt+Tab shows every running app as one icon with its open-window count, and no window thumbnails inside. Releasing Alt opens that app's most recent window.",
+  "shell-version": ["45", "46", "47", "48"],
+  "version": 1
+}
